@@ -21,6 +21,7 @@ export OWNCLOUD_DATA_DIR="path-to-data-dir"
 ./owncloud-firststart.sh
 
 ```
+## Starting and stopping
 
-After these steps have been taken, it is save to start the docker image with `docker start owncloud`, and to stop with `docker stop owncloud`.
+After the initial steps have been taken, it is save to start the docker image with `docker start owncloud`, and to stop with `docker stop owncloud`.
 
