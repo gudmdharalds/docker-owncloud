@@ -22,7 +22,5 @@ export OWNCLOUD_DATA_DIR="path-to-data-dir"
 
 ```
 
-After these steps have been taken, it is save to start the docker image with `docker start owncloud`.
+After these steps have been taken, it is save to start the docker image with `docker start owncloud`, and to stop with `docker stop owncloud`.
 
-- non-root
-- initialization script to create config-file
